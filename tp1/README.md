@@ -3,9 +3,7 @@
 ## :dart: Objetivo
 
 
-O objetivo consiste em comparar os desempenhos da DFT, FFT e FFT vetorizada em sinais aleatórios (ruídos) com tamanhos n = 4096, n = 8192 e n = 16384.
-
-Explique os códigos e seu funcionamento. Plote gráficos dos sinais aleatórios e da magnitude dos coeficientes da FFT.
+O objetivo consiste em comparar os desempenhos da DFT, FFT e FFT vetorizada em sinais aleatórios (ruídos) com tamanhos n = 4096, n = 8192 e n = 16384. Explicar os códigos e seu funcionamento, plotando gráficos dos sinais aleatórios e da magnitude dos coeficientes da FFT.
 
 <p align="center">
    <h3>Exemplo de um gráfico de sinais de uma amostra de 4096 sinais</h3>
