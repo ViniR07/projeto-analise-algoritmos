@@ -16,7 +16,13 @@
 
 Serão realizados, totalizando, no mínimo 3 trabalhos práticos realizados individualmente ou em dupla, Com tecnologia de implementação livre.
 
-- [`Trabalho 1` `DFT x FFT`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/tp1): implementar os algoritmos DFT e FFT, comparando o desempenho de ambos em sinais com um grande número de amostras.!
+- [`Trabalho 1` `DFT x FFT`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/trabalhos/tp1): implementar os algoritmos DFT e FFT, comparando o desempenho de ambos em sinais com um grande número de amostras.!
+
+## :chart_with_upwards_trend: Algoritmos
+
+Diretório contendo os principais algoritmos desenvolvidos em atividades curriculares da matéria.
+
+- [`Programacao Dinâmica` `Parte 1`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/algoritmos/programacao-dinamica): implementações de algoritmos utilizando estratégias de programação dinâmica para melhorar o custo computacional em larga escala!
 
 ## :zap: Tecnologias
 
