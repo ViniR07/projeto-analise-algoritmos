@@ -22,7 +22,7 @@ Serão realizados, totalizando, no mínimo 3 trabalhos práticos realizados indi
 
 Diretório contendo os principais algoritmos desenvolvidos em atividades curriculares da matéria.
 
-- [`Programacao Dinâmica` `Parte 1`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/algoritmos/programacao-dinamica): implementações de algoritmos utilizando estratégias de programação dinâmica para melhorar o custo computacional em larga escala!
+- [`Programacao Dinâmica`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/algoritmos/programacao-dinamica): implementações de algoritmos utilizando estratégias de programação dinâmica para melhorar o custo computacional em larga escala!
 
 ## :zap: Tecnologias
 
