@@ -16,13 +16,15 @@
 
 Serão realizados, totalizando, no mínimo 3 trabalhos práticos realizados individualmente ou em dupla, Com tecnologia de implementação livre.
 
-- [`Trabalho 1` `DFT x FFT`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/trabalhos/tp1): implementar os algoritmos DFT e FFT, comparando o desempenho de ambos em sinais com um grande número de amostras.!
+- [`Trabalho 1` `DFT x FFT`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/trabalhos/tp1): implementar os algoritmos DFT e FFT, comparando o desempenho de ambos em sinais com um grande número de amostras!
+- [`Trabalho 2` `Kruskal e Prim: MST's`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/trabalhos/tp2): implementar os algoritmos de Kruskal e Prim para obtenção de MST's, testando em um grafo ponderado!
 
 ## :chart_with_upwards_trend: Algoritmos
 
 Diretório contendo os principais algoritmos desenvolvidos em atividades curriculares da matéria.
 
 - [`Programacao Dinâmica`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/algoritmos/programacao-dinamica): implementações de algoritmos utilizando estratégias de programação dinâmica para melhorar o custo computacional em larga escala!
+- [`Algoritmos Gulosos`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/algoritmos/algoritmos-gulosos): implementações e testes de algoritmos gulosos para comparações de desempenhos da estratégia!
 
 ## :zap: Tecnologias
 
