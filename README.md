@@ -18,6 +18,8 @@ Serão realizados, totalizando, no mínimo 3 trabalhos práticos realizados indi
 
 - [`Trabalho 1` `DFT x FFT`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/trabalhos/tp1): implementar os algoritmos DFT e FFT, comparando o desempenho de ambos em sinais com um grande número de amostras!
 - [`Trabalho 2` `Kruskal e Prim: MST's`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/trabalhos/tp2): implementar os algoritmos de Kruskal e Prim para obtenção de MST's, testando em um grafo ponderado!
+- [`Trabalho 3` `O Código de Huffman`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/trabalhos/tp3): implementar o algoritmo de Huffman e testar na compactação de sequência de caracteres!
+- [`Trabalho 4` `O algoritmo de Ford-Fulkerson`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/trabalhos/tp4): implementar o algoritmo de Ford-Fulkerson para encontrar o fluxo máximo em redes!
 
 ## :chart_with_upwards_trend: Algoritmos
 
