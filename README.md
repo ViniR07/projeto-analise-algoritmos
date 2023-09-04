@@ -14,7 +14,7 @@
 
 ## :hammer: Trabalhos
 
-Serão realizados, totalizando, no mínimo 3 trabalhos práticos realizados individualmente ou em dupla, Com tecnologia de implementação livre.
+Foram desenvolvidos 4 trabalhos práticos realizados individualmente e em dupla, Com tecnologia de implementação livre.
 
 - [`Trabalho 1` `DFT x FFT`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/trabalhos/tp1): implementar os algoritmos DFT e FFT, comparando o desempenho de ambos em sinais com um grande número de amostras!
 - [`Trabalho 2` `Kruskal e Prim: MST's`](https://github.com/vinimrs/projeto-analise-algoritmos/tree/master/trabalhos/tp2): implementar os algoritmos de Kruskal e Prim para obtenção de MST's, testando em um grafo ponderado!
